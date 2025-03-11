@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PriscillaEwusi
-- 👀 I’m interested in app and webapp development 
-- 🌱 I’m currently learning software engineering and app development 
+- 👋 Hi, I’m Priscilla Ewusi
+- 👀 I’m interested in cloud computing and webapp development 
+- 🌱 I’m currently learning AWS 
 - 💞️ I’m looking forward to learn new skills and collaborate on projects
 - 📫 How to reach me ewusii.priscilla@gmail.com
 
